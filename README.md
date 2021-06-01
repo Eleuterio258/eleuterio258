@@ -14,29 +14,29 @@ I'm a Eleutério Fulaho Notiço Técnico Médio Planeamento Físico e Ambiente A
 
 **Languages and Tools:**
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-ar21.svg"></code>
   <br />
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
   </p>
 
