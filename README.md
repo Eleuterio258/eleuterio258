@@ -1,5 +1,5 @@
 
-<a href="https://github.com/eleuterio258/github-readme-stats">
+<a href="https://github.com/eleuterio258">
    <img width="60%" alt="eleuterio258" src="https://github-readme-stats.vercel.app/api?username=eleuterio258&show_icons=true&hide_border=true" />
 </a>
 
