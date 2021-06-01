@@ -1,7 +1,6 @@
-# Hi, I'm Eleuterio258! a.k.e  Enigma4XD
 
 <a href="https://github.com/eleuterio258/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=eleuterio258&show_icons=true&hide_border=true" />
+   <img width="60%" alt="eleuterio258" src="https://github-readme-stats.vercel.app/api?username=eleuterio258&show_icons=true&hide_border=true" />
 </a>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Eleuterio258)
@@ -10,4 +9,4 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/technettmoz)
 
 ### About me
-I'm a Técnico Médio Planeamento Físico e Ambiente Analista de sistemas / Desenvolvedor de aplicações web em php(Laravel e codeigniter  javascript(vue,adonis js) Desktop(java,C# , java,flutter) e Mobile android e ios em flutter
+I'm a Eleutério Fulaho Notiço Técnico Médio Planeamento Físico e Ambiente Analista de sistemas / Desenvolvedor de aplicações web em php(Laravel e codeigniter  javascript(vue,adonis js) Desktop(java,C# , java,flutter) e Mobile android e ios em flutter
