@@ -6,4 +6,4 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/technettmoz)
 
 ### About me
-I'm a Analista de sistemas / Desenvolvedor de aplicações web Desktop e mobile
+I'm a Técnico Médio Planeamento Físico e Ambiente Analista de sistemas / Desenvolvedor de aplicações web em php(Laravel e codeigniter) ,javascript(vue,adonis js) Desktop java,C# e java) e Mobile em <b>flutter</b>
