@@ -1,5 +1,9 @@
 # Hi, I'm Eleuterio258! a.k.e  Enigma4XD
 
+<a href="https://github.com/eleuterio258/github-readme-stats">
+   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=eleuterio258&show_icons=true&hide_border=true" />
+</a>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Eleuterio258)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/eleuterio-fulaho-notico-31b80457/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/eleuterio941)
