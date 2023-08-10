@@ -9,7 +9,11 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/technettmoz)
 
 ### About me
-I'm a Eleutério Fulaho Notiço Técnico Médio de Planeamento Físico e Ambiente Analista de sistemas / Desenvolvedor de aplicações web em php(Laravel e codeigniter  javascript(vue,adonis js) Desktop(java,C# , java,flutter) e Mobile android e ios em flutter
+I'm a Eleutério Fulaho Notiço 
+Sou um apaixonado desenvolvedor com uma ampla gama de competências. Minhas fortes habilidades incluem o desenvolvimento Backend usando PHP (Laravel), Node.js (AdonisJS, Express) e Kotlin. Além disso, possuo uma vasta experiência como desenvolvedor em Flutter e Kotlin (Jetpack Compose), me especializando em aplicações móveis.
+Tenho uma expertise especializada em DevOps Cloud, com a capacidade de configurar, implementar e gerenciar aplicações na nuvem, com destaque para plataformas como AWS, Google Cloud e Linode. Minha proficiência em sistemas operacionais Linux é fundamental para a administração eficiente de servidores e implantações.
+Além disso, estou familiarizado com plataformas BaaS, como Hasura, Supabase, Appwrite e Pocketbase, o que agiliza o desenvolvimento Backend e permite focar mais nas funcionalidades essenciais.
+Estou constantemente buscando aprimorar minhas habilidades para acompanhar as mudanças tecnológicas e adoro colaborar em projectos desafiadores. Minha paixão por criar soluções abrangentes e inovadoras me impulsiona a enfrentar novos desafios e entregar resultados excepcionais.
 
 **Languages and Tools:**
 <p>
